@@ -1,0 +1,20 @@
+.imgin{
+  width: 100%;
+  height: 50px;
+}
+.imgin{
+  width: 50px;
+  height: 30px;
+  padding: 0px 10px;
+}
+/* .center{
+  margin: auto;
+} */
+.img{
+  width: 80%;
+  height: 350px;
+}
+.inner{
+  width: 18rem;
+  padding: 3px;
+}
