@@ -1,0 +1,15 @@
+.main{
+  margin: 0% 32%;
+  background-color: rgb(47, 176, 196);
+}
+.text-bold{
+  font-size: 20px;
+  font-weight: 450;
+}
+
+@media (max-width:768px){
+
+  .main{
+    margin: 0% 0%;
+  }
+}

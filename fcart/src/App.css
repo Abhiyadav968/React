@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: sans-serif;
+}
+
+.form-field {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .icon {
+    position: absolute;
+    right: 0;
+    padding-top: 8px;
+    font-size: 23px;
+  }
